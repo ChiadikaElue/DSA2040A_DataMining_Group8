@@ -2,8 +2,10 @@
  DSA 2040A Project: Online Retail Customer Analytics
 
 ##  Project by: 
-Chiadika Elue 670280
+Chiadika Elue 
+
 Keyshia Mideva
+
 Nelisa Wacera
 
 ##  Executive Summary
@@ -37,10 +39,10 @@ cd DSA2040A_DataMining_SoloProject
 pip install -r requirements.txt
 
 # Open in VS Code and run notebooks in order:
-# 1. 1_extract_transform.ipynb
-# 2. 2_exploratory_analysis.ipynb
-# 3. 3_data_mining.ipynb
-# 4. 4_insights_dashboard.ipynb
+ 1. 1_extract_transform.ipynb
+ 2. 2_exploratory_analysis.ipynb
+ 3. 3_data_mining.ipynb
+ 4. 4_insights_dashboard.ipynb
 
 ##  Team Members & Contributions
 
