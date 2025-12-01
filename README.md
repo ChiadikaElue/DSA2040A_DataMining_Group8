@@ -28,7 +28,7 @@ This project implements a complete data mining pipeline on the Online Retail II 
 4. **Statistical Analysis:** Correlation analysis, outlier detection
 
 ##  How to Run in VS Code
-```bash
+
 # Clone repository
 git clone https://github.com/your-username/DSA2040A_DataMining_SoloProject.git
 cd DSA2040A_DataMining_SoloProject
